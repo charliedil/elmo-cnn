@@ -1,0 +1,4 @@
+data/*
+elmo_training/*
+results/*
+model/logFile
